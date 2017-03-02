@@ -1,6 +1,5 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# React Message App
+A simple message app created with React.js and the help of Stephen Grider's react boilerplate.
 
 ###Getting Started###
 

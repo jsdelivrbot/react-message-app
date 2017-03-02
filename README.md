@@ -1,6 +1,8 @@
 # React Message App
 A simple message app created with React.js and the help of Stephen Grider's react boilerplate.
 
+![](/screenshot-app.png)
+
 ###Getting Started###
 
 There are two methods for getting started with this repo.
